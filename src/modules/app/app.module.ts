@@ -13,6 +13,7 @@ import AppPermissionsComponent from './app-permissions/app-permissions.component
 import BookmarkComponent from './app-search/bookmark/bookmark.component';
 import BookmarkTreeComponent from './app-search/bookmark-tree/bookmark-tree.component';
 import AppSettingsModule from './app-settings/app-settings.module';
+import AppHistoryComponent from './app-history/app-history.component';
 import AppSupportComponent from './app-support/app-support.component';
 import AppUpdatedComponent from './app-updated/app-updated.component';
 
@@ -20,6 +21,7 @@ import AppUpdatedComponent from './app-updated/app-updated.component';
   declarations: [
     AppBackgroundComponent,
     AppHelpComponent,
+    AppHistoryComponent,
     AppPermissionsComponent,
     AppSupportComponent,
     AppUpdatedComponent,

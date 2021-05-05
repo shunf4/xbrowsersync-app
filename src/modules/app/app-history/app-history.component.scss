@@ -1,0 +1,10 @@
+@import '../../../styles/modules/all';
+
+app-history {
+  --color-settings-description-text: #{$color-text3-default};
+  --color-settings-description-link: #{$color-text3-default};
+  --color-settings-description-link-hover: #{$color-bg2-default};
+  --color-settings-value-text: #{$color-text2-default};
+
+  display: block;
+}

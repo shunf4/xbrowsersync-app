@@ -9,6 +9,7 @@ enum AppEventType {
 enum AppViewType {
   Bookmark = 'BOOKMARK',
   Help = 'HELP',
+  History = 'HISTORY',
   Login = 'LOGIN',
   Permissions = 'PERMISSIONS',
   Scan = 'SCAN',
@@ -16,7 +17,7 @@ enum AppViewType {
   Settings = 'SETTINGS',
   Support = 'SUPPORT',
   Updated = 'UPDATED',
-  Working = 'WORKING'
+  Working = 'WORKING',
 }
 
 enum KeyCode {
